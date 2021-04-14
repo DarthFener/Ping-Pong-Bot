@@ -1,0 +1,4 @@
+#!/bin/bash
+forever stop bot.js
+forever start bot.js
+forever list

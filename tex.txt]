@@ -1,0 +1,3 @@
+[32minfo[39m:    Forever processes running
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m       [90mscript[39m [37mforever[39m [37mpid[39m   [37mid[39m [35mlogfile[39m                 [33muptime[39m                    
+[90mdata[39m:    [0] _tZQ [90m/usr/bin/node[39m [90mbot.js[39m 32507   32521    [35m/root/.forever/_tZQ.log[39m [33m0:0:10:37.162000000000035[39m 
